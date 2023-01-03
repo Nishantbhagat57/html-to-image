@@ -3,6 +3,7 @@ Simple and easy HTML to Image CLI converter made in Python
 
 # Usage
 To use this tool, you will need to have WeasyPrint and Ghostscript installed. You can install these libraries using pip:
+
 `
 pip install weasyprint
 pip install ghostscript
