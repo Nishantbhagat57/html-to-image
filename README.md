@@ -1,5 +1,5 @@
 # html-to-image
-Simple and easy HTML to Image CLI converter made in Python
+Simple and easy HTML to Image converter CLI tool made in Python.
 
 # Usage
 To use this tool, you will need to have WeasyPrint and Ghostscript installed. You can install these libraries using pip:
