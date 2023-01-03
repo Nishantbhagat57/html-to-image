@@ -6,8 +6,11 @@ To use this tool, you will need to have WeasyPrint and Ghostscript installed. Yo
 
 `
 pip install weasyprint
+`
+`
 pip install ghostscript
 `
+
 Once you have these libraries installed, you can run the tool by passing in the path to the HTML file and the desired image file path as command line arguments:
 
 `python html_to_image.py html_file_path image_file_path
