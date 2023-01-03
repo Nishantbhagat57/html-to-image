@@ -7,6 +7,7 @@ To use this tool, you will need to have WeasyPrint and Ghostscript installed. Yo
 `
 pip install weasyprint
 `
+
 `
 pip install ghostscript
 `
